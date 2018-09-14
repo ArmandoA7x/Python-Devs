@@ -1,2 +1,2 @@
 # Python-Devs
-Diferentes progrmas en Python
+Diferentes programas en Python
